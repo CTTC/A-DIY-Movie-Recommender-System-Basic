@@ -1,4 +1,4 @@
-# Java-Programming-Capstone-A-DIY-Version-of-Netflix-and-Amazon-Recommendation-Engines-Efficient
-The "Efficient" version of Capstone Project is more efficient and uses multiple filters.
+# A DIY Movie Recommender System Basic
+Recommend movies based on average rating scores of movies.
 
 main function is ```MovieRunnerWithFilters.java```
